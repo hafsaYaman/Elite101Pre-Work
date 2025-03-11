@@ -1,3 +1,17 @@
+clothing_items = [
+    {"id": 101, "item": "T-shirt"},
+    {"id": 102, "item": "Jeans"},
+    {"id": 103, "item": "Hoodie"},
+    {"id": 104, "item": "Jacket"},
+    {"id": 105, "item": "Sneakers"},
+    {"id": 106, "item": "Hat"},
+    {"id": 107, "item": "Scarf"},
+    {"id": 108, "item": "Skirt"},
+    {"id": 109, "item": "Dress"},
+    {"id": 110, "item": "Shorts"}
+]
+
+
 
 print("Hello, Welcome to the clothing ordering chatbot.")
 name = input("Please enter your name: ")
